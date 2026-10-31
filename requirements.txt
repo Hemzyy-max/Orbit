@@ -1,0 +1,4 @@
+livekit-agents[google]>=1.8,<2.0
+python-dotenv>=1.0,<2.0
+pyautogui>=0.9.54,<1.0
+pyperclip>=1.9,<2.0
